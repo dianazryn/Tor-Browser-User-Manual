@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 92 *
+
+ORIGINAL TEXT
+-------------
+Direct access to the Tor network may sometimes be blocked by your Internet Service Provider or by a government.
+
+TRANSLATION
+-----------
+Прямой доступ к сети Tor иногда может быть заблокирован вашим интернет-провайдером или государством.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
