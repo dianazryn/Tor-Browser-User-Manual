@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 36 *
+
+ORIGINAL TEXT
+-------------
+### HOW TOR WORKS
+
+TRANSLATION
+-----------
+### КАК РАБОТАЕТ TOR
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
