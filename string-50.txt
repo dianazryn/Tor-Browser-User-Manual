@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 50 *
+
+ORIGINAL TEXT
+-------------
+### TO USE GETTOR VIA EMAIL:
+
+TRANSLATION
+-----------
+### ЧТОБЫ ИСПОЛЬЗОВАТЬ GETTOR ЧЕРЕЗ EMAIL:
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
