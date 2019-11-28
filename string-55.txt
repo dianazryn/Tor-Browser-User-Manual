@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 55 *
+
+ORIGINAL TEXT
+-------------
+INSTALLATION
+
+TRANSLATION
+-----------
+УСТАНОВКА
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
