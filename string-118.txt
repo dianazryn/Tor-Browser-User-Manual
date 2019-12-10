@@ -1,0 +1,14 @@
+* Tor Project Web / Tor Browser User Manual / string 118 *
+
+ORIGINAL TEXT
+-------------
+If you try all of these options, and none of them gets you online,
+you will need to enter bridge addresses manually.
+
+TRANSLATION
+-----------
+Если вы пробуете все эти варианты, и ни один из них не подключает вас
+к сети, вам нужно будет ввести адреса моста вручную.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
