@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 66 *
+
+ORIGINAL TEXT
+-------------
+2. Download the GNU/Linux `.tar.xz` file
+
+TRANSLATION
+-----------
+2. Загрузите `.tar.xz` файл для GNU/Linux
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
