@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 61 *
+
+ORIGINAL TEXT
+-------------
+4. When the download is complete, double click the `.exe` file. Complete the installation wizard process.
+
+TRANSLATION
+-----------
+4. Когда загрузка будет завершена, дважды щелкните на `.exe` файл. Завершите процесс установки.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
