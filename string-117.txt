@@ -1,0 +1,14 @@
+* Tor Project Web / Tor Browser User Manual / string 117 *
+
+ORIGINAL TEXT
+-------------
+If you are trying to circumvent a blocked connection for the first time,
+you should try the different transports: obfs4, snowflake, and meek-azure.
+
+TRANSLATION
+-----------
+Если вы пытаетесь обойти заблокированное соединение в первый раз, вы должны
+попробовать различные транспорты: obfs4, snowflake и meek-azure.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
