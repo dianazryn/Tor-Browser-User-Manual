@@ -1,0 +1,14 @@
+* Tor Project Web / Tor Browser User Manual / string 116 *
+
+ORIGINAL TEXT
+-------------
+Each of the transports listed in Tor Launcher’s menu works in a different way,
+and their effectiveness depends on your individual circumstances.
+
+TRANSLATION
+-----------
+Каждый из транспортов, перечисленных в меню запуска Tor, работает по-разному,
+и их результативность зависит от ваших индивидуальных обстоятельств.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
