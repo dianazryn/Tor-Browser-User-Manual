@@ -1,0 +1,16 @@
+* Tor Project Web / Tor Browser User Manual / string 47 *
+
+ORIGINAL TEXT
+-------------
+If you're unable to download Tor Browser from the official Tor Project website, you can instead
+try downloading it from one of our official mirrors, either through [EFF](https://tor.eff.org),
+[Calyx Institute](https://tor.calyxinstitute.org) or [CCC](https://tor.ccc.de).
+
+TRANSLATION
+-----------
+Если вы не можете загрузить Tor Browser с официального сайта Tor Project, вы можете попробовать
+загрузить его с одного из наших официальных зеркал, либо через [EFF](https://tor.eff.org),
+[Calyx Institute](https://tor.calyxinstitute.org) или [ССС](https://tor.ccc.de).
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
