@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 121 *
+
+ORIGINAL TEXT
+-------------
+Most Pluggable Transports, such as obfs4, rely on the use of “bridge” relays.
+
+TRANSLATION
+-----------
+Большинство Подключаемых Транспортов, такие как obfs4, полагаются на использование "мостовых" ретрансляторов.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
