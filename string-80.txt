@@ -1,0 +1,12 @@
+* Tor Project Web / Tor Browser User Manual / string 80 *
+
+ORIGINAL TEXT
+-------------
+In most cases, choosing "Connect" will allow you to connect to the Tor network without any further configuration.
+
+TRANSLATION
+-----------
+В большинстве случаев, выбрав "Соединиться", вы подключитесь к сети Tor без дополнительных настроек.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
